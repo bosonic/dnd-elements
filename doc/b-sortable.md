@@ -1,3 +1,10 @@
+{
+  title: "Sortable",
+  element: 'b-sortable',
+  category: "elements",
+  section: "dnd",
+  order: 1
+}
 # b-sortable
 
 An element which enable a group of DOM elements to be sortable.

@@ -1,3 +1,11 @@
+{
+  title: "Tree",
+  element: 'b-tree',
+  category: "elements",
+  section: "dnd",
+  published: false,
+  order: 2
+}
 # b-tree
 
 An element which can be used for a sortable tree.
